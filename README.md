@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Welcome to my GitHub profile! I'm Mustafa — aka Black Pirate 🏴‍☠️</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Welcome to my GitHub profile! I'm Mustafa Cyber Security 🏴‍☠️</h2>
 
 <img align="right" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="230">
 
