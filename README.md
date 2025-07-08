@@ -7,7 +7,7 @@
 🧠 Always learning — C, Assembly, Linux, and beyond!</em></p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-@mus_5112003-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mus_5112003/)
-[![GitHub](https://img.shields.io/badge/GitHub-black--pirate511-black?logo=github)](https://github.com/black-pirate511)
+[![GitHub](https://img.shields.io/badge/GitHub-black--pirate511-black?logo=github)](https://github.com/Mustafa-CyberSecurity-511)
 [![Telegram](https://img.shields.io/badge/Telegram-@blackpirate-blue?logo=telegram)](https://t.me/black_pirate511)
 
 ---
